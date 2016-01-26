@@ -22,7 +22,7 @@ Released   : 20120927
 <!--[if IE 6]>
 <link href="<?=BASE?>/themes/greenness/default_ie6.css" rel="stylesheet" type="text/css" />
 <![endif]-->
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
 <?=$this->head?>
 </head>
 <body>
