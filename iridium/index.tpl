@@ -13,7 +13,8 @@
 </noscript>
 <script src="<?=BASE?>/themes/iridium/css/5grid/jquery.js"></script>
 <script src="<?=BASE?>/themes/iridium/css/5grid/init.js?use=mobile,desktop,1000px&amp;mobileUI=1&amp;mobileUI.theme=none"></script>
-<!--[if IE 9]><link rel="stylesheet" href="css/style-ie9.css"><![endif]-->
+<!--[if IE 9]><link rel="stylesheet" href="<?=BASE?>/themes/iridium/css/style-ie9.css"><![endif]-->
+<?=$this->head?>
 </head>
 <body>
 <div id="header-wrapper">
