@@ -22,6 +22,7 @@
 		</noscript>
 		<!--[if lte IE 8]><link rel="stylesheet" href="<?=BASE?>/themes/synchronous/css/ie/v8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="<?=BASE?>/themes/synchronous/css/ie/v9.css" /><![endif]-->
+		<?=$this->head?>
 	</head>
 	<body class="homepage">
 		<div id="wrapper">

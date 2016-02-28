@@ -21,6 +21,7 @@ Released   : 20130919
 <!--[if IE 6]>
 <link href="<?=BASE?>/themes/joyousness/default_ie6.css" rel="stylesheet" type="text/css" />
 <![endif]-->
+<?=$this->head?>
 </head>
 <body>
 <div id="header-wrapper">

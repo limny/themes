@@ -21,7 +21,7 @@ Released   : 20131201
 <link href="<?=BASE?>/themes/seascape/fonts.css" rel="stylesheet" type="text/css" media="all" />
 
 <!--[if IE 6]><link href="<?=BASE?>/themes/seascape/default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
-
+<?=$this->head?>
 </head>
 <body>
 <div id="header-wrapper">

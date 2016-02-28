@@ -22,6 +22,7 @@ Released   : 20140310
 <!--[if IE 6]>
 <link href="<?=BASE?>/themes/grassygrass/default_ie6.css" rel="stylesheet" type="text/css" />
 <![endif]-->
+<?=$this->head?>
 </head>
 <body>
 <div id="wrapper">

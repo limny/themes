@@ -4,6 +4,7 @@
 <title><?=$this->title?></title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="stylesheet" href="<?=BASE?>/themes/elitecircle/images/EliteCircle.css" type="text/css" />
+<?=$this->head?>
 </head>
 <body>
 <div id="header">

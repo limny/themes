@@ -20,6 +20,7 @@
 			<link rel="stylesheet" href="<?=BASE?>/themes/spatial/css/style.css" />
 			<link rel="stylesheet" href="<?=BASE?>/themes/spatial/css/style-xlarge.css" />
 		</noscript>
+		<?=$this->head?>
 	</head>
 	<body class="landing">
 
