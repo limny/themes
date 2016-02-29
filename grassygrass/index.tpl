@@ -43,7 +43,7 @@ Released   : 20140310
 	<div id="header-wrapper">
 		<div id="header" class="container">
 			<div id="logo">
-				<h1><a href="#"><?=$this->registry->config->header?></a></h1>
+				<h1><a href="<?=$this->registry->config->address?>"><?=$this->registry->config->header?></a></h1>
 				<p><?=$this->registry->config->motto?></p>
 			</div>
 		</div>

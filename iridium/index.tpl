@@ -22,7 +22,7 @@
     <div class="row">
       <div class="12u">
         <!-- Logo -->
-        <h1><a href="#" class="mobileUI-site-name"><?=$this->registry->config->header?></a></h1>
+        <h1><a href="<?=$this->registry->config->address?>" class="mobileUI-site-name"><?=$this->registry->config->header?></a></h1>
         <!-- Nav -->
         <nav class="mobileUI-site-nav">
           <?php
